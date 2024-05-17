@@ -106,4 +106,4 @@ deploy:
   - type: git
     repository:
       github: git@github.com:guxc20/guxc.github.io.git
-    branch: main
+    branch: master
