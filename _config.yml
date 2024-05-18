@@ -105,5 +105,5 @@ theme: fluid
 deploy:
   - type: git
     repository:
-      github: git@github.com:guxc20/guxc.github.io.git
+      github: git@github.com:guxc20/guxc20.github.io.git
     branch: master
